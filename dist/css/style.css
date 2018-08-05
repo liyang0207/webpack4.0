@@ -1,0 +1,21 @@
+#container {
+  background: #eee;
+  width: 200px;
+  height: 200px;
+}
+#container h2 {
+  font-size: 30px;
+  color: aquamarine;
+}
+#container .imgbox {
+  width: 310px;
+  height: 108px;
+  background: url(/dist/img/31663c2aa375704e3ec6b416b12e9530.wp7.png) no-repeat scroll center / 100%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  line-height: 1;
+}
