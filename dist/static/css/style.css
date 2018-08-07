@@ -1,0 +1,23 @@
+#container {
+  background: #eee;
+  width: 200px;
+  height: 200px;
+}
+#container h2 {
+  font-size: 30px;
+  color: aquamarine;
+}
+#container .imgbox {
+  width: 310px;
+  height: 108px;
+  background: url(/static/img/wp7.png) no-repeat scroll center / 100%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  line-height: 1;
+}
+
+/*# sourceMappingURL=style.css.map*/
